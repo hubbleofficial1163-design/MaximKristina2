@@ -1465,7 +1465,7 @@ p, li, .timeline-content p, .location-info p, .invitation-text p, .gifts-section
 }
 
 .invitation-text p {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 .invitation-text .signature {
@@ -1605,7 +1605,7 @@ input, select, textarea {
     }
     
     .invitation-text p {
-        font-size: 1.1rem;
+        font-size: 1.3rem;
     }
     
     .story-text p {
@@ -1640,7 +1640,7 @@ input, select, textarea {
     }
     
     .invitation-text p {
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
     
     .story-text p {
@@ -1713,4 +1713,3 @@ input, select, textarea {
     top: 55% !important;
     transform: translate(-50%, -50%) !important;
 }
-
