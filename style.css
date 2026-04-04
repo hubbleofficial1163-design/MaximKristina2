@@ -1713,3 +1713,8 @@ input, select, textarea {
     top: 55% !important;
     transform: translate(-50%, -50%) !important;
 }
+
+/* Отступ снизу у музыкального плеера */
+.simple-music-player {
+    margin-bottom: 60px !important;
+}
